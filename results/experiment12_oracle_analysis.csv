@@ -1,0 +1,3 @@
+Method,AUROC(%),AUPRC(%)
+Standard (RPN),90.04,77.39
+Oracle (Ground Truth),99.33,99.35
